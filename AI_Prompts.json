@@ -1,0 +1,22 @@
+[
+    {
+        "step": 1,
+        "role": "user",
+        "content": "Generate a complete Data Science assignment project 'ds_yuvraj' to analyze Bitcoin Fear & Greed Index vs Trader Behavior."
+    },
+    {
+        "step": 2,
+        "role": "user",
+        "content": "Create a Python script to generate a Colab-ready Jupyter Notebook that downloads data, cleans it, and performs EDA."
+    },
+    {
+        "step": 3,
+        "role": "user",
+        "content": "Write a professional, human-like analysis report (ds_report.md) summarizing the findings on profitability, leverage, and sentiment."
+    },
+    {
+        "step": 4,
+        "role": "user",
+        "content": "Create a README.md with clear instructions on how to run the notebook on Google Colab and submit the assignment."
+    }
+]

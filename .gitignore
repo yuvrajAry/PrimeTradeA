@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.csv
+!csv_files/merged_processed.csv
+outputs/*.png
+.env
+.venv
